@@ -1,0 +1,1 @@
+python geburtstage2ics.py
